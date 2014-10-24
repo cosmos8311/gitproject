@@ -1,1 +1,1 @@
-this is testpush and master branch.
+this is testpush and master branch which is merged.

@@ -1,1 +1,1 @@
-This is master branch. Hotfix is fixed.
+This is master branch which is merged. Hotfix is fixed.
